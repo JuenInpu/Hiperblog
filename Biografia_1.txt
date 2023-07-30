@@ -1,0 +1,9 @@
+Este es mi primer archivo de texto para incluir en el proyecto1
+
+Espero que sea incorporado en el GIT de ADV dentro de la carpeta proyecto 1
+
+Hoy es domingo de julio
+
+De alguna manera esta es mi biografía de hoy...
+
+Ahora le voy a cambiar el nombre a historia.txt para sintonizarme con la clase (además que el nombre por buena práctica debe iniciar con minúscula)
