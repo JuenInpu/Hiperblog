@@ -7,3 +7,5 @@ Hoy es domingo de julio
 De alguna manera esta es mi biografía de hoy...
 
 Ahora le voy a cambiar el nombre a historia.txt para sintonizarme con la clase (además que el nombre por buena práctica debe iniciar con minúscula)
+
+Esto lo agrego mientras estoy en la rama cabecera para crear un conflicto
