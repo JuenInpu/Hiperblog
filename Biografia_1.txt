@@ -8,4 +8,5 @@ De alguna manera esta es mi biografía de hoy...
 
 Ahora le voy a cambiar el nombre a historia.txt para sintonizarme con la clase (además que el nombre por buena práctica debe iniciar con minúscula)
 
-Esto lo agrego mientras estoy en la rama master para crear un conflicto con lo que agregué estando en la rama cabecera
+Esto lo agrego mientras estoy en la rama master para crear un conflicto con lo que agregué estando en la rama cabecera. Esto lo agrego mientras estoy en la rama cabecera para crear un conflicto. ¡Pero resolví el conflicto modificando directamente el archivo (escogiendo con cuál cambio me quiero quedar) y haciendo el add y el commit
+
