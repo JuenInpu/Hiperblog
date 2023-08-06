@@ -1,2 +1,2 @@
-# Hiperblog
-Este es una simulación de un cortísimo blog hecho en clase de Platzi... Mero ejercicio de clase
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi

@@ -1,11 +1,7 @@
-Este es mi primer archivo de texto para incluir en el proyecto1
+Esta es la historia de Freddy Vega
 
-Espero que sea incorporado en el GIT de ADV dentro de la carpeta proyecto 1
+Freddy Vega tiene 32 años y nació en Colombia
 
-Hoy es domingo de julio
+Anita Platzi tiene 41 años y nació en Internet
 
-De alguna manera esta es mi biografía de hoy...
-
-Ahora le voy a cambiar el nombre a historia.txt para sintonizarme con la clase (además que el nombre por buena práctica debe iniciar con minúscula)
-
-Esta es una versión anterior y la modifico con la advertencia de que el git checkout debe ser usado con mucho cuidado.
+Mañana nos enfocaremos en su vida laboral
