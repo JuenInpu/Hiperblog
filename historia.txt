@@ -12,3 +12,5 @@ https://platzi.com/clases/1557-git-github/19975-git-rebase-reorganizando-el-trab
 Aquí hago otro cambio mientras estoy en la rama main: Main 2
 
 
+Agrego una nueva línea experimento 2 y guardo 
+
