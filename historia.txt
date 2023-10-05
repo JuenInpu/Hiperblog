@@ -9,3 +9,6 @@ Mañana nos enfocaremos en su vida laboral
 Acá hago un cambio para practicar lo del rebase lección 35 en 
 https://platzi.com/clases/1557-git-github/19975-git-rebase-reorganizando-el-trabajo-realizado/
 
+Aquí hago otro cambio mientras estoy en la rama main: Main 2
+
+
